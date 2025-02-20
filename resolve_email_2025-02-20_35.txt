@@ -1,0 +1,1 @@
+Resolve email verification for API (low-priority)

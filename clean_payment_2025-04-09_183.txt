@@ -1,0 +1,1 @@
+Clean payment gateway for security (minor) - Implemented a new feature to enhance payment gateway.

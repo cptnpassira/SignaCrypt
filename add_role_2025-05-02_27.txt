@@ -1,0 +1,1 @@
+Add role management for middleware (minor) - Implemented a new feature to enhance role management.

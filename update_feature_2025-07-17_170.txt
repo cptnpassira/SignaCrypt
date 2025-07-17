@@ -1,0 +1,1 @@
+Update feature toggle for session (major) - Implemented a new feature to enhance feature toggle.

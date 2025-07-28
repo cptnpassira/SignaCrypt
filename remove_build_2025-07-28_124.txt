@@ -1,0 +1,1 @@
+Remove build pipeline for authentication (quick)

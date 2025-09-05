@@ -1,0 +1,1 @@
+Develop database queries for synchronization (critical)

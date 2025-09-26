@@ -1,0 +1,1 @@
+Improve user input for error (major) - Implemented a new feature to enhance user input.

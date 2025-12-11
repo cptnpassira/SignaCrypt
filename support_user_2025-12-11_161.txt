@@ -1,0 +1,1 @@
+Support user interface for integration (low-priority) - Implemented a new feature to enhance user interface.

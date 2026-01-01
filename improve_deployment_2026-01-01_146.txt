@@ -1,0 +1,1 @@
+Improve deployment process for authentication (major) - Implemented a new feature to enhance deployment process.

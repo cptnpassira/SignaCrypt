@@ -1,0 +1,1 @@
+Update build pipeline for query (critical) - Implemented a new feature to enhance build pipeline.
